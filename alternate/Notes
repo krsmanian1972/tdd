@@ -1,0 +1,2 @@
+1. The isAnagram method is implemeted by sorting the characters and find the two arrays are equal.
+2. The mock is a way to defer the implementation of this isAnagram while focusing on the outside.
